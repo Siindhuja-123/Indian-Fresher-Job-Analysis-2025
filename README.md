@@ -184,7 +184,7 @@ pip install -r requirements.txt
 
 # 2. Launch the dashboard from inside the project folder
 cd fresher_job_analysis
-streamlit run app.py
+streamlit run app.py or python -m streamlit run app.py
 ```
 
 Open **http://localhost:8501** in your browser. Use the sidebar to navigate pages and
