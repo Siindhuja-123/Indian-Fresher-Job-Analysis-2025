@@ -30,7 +30,7 @@ learning, just clean, focused data analysis and interactive visualisation.
 
 ## 🗂 Dataset
 
-**File:** `data/Indian_Fresher_Salary_Skills_2025.csv`
+**File:** [`data/Indian_Fresher_Salary_Skills_2025.csv`](https://www.kaggle.com/datasets/ankushnarwade/indian-fresher-salary-and-skill-trends-2025)
 
 | Property | Value |
 |----------|-------|
