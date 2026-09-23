@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Fresher Job Market Analysis 2025
+# Indian Fresher Job Market Analysis 2025
 
 A data analytics project that explores the Indian fresher job market using a structured dataset
 of 500 job listings. Built entirely with Python, Pandas, Plotly, and Streamlit — no machine
